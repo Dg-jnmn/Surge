@@ -1,4 +1,3 @@
-
 // random_gps.js
 
 function generateRandomGPS() {
